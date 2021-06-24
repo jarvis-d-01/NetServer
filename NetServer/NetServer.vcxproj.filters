@@ -18,13 +18,8 @@
     <ClCompile Include="NetServer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Socket.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Socket.h">
-      <Filter>Resource Files</Filter>
-    </ClInclude>
+    <None Include="index.html" />
   </ItemGroup>
 </Project>
